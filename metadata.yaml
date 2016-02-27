@@ -1,0 +1,26 @@
+_repo: Discourses-on-Satire-and-on-Epic-Poetry_2615
+creator:
+  author:
+    agent_name: Dryden, John
+    birthdate: 1631
+    deathdate: 1700
+    gutenberg_agent_id: '807'
+    url: http://www.gutenberg.org/2009/agents/807
+    wikipedia: http://en.wikipedia.org/wiki/John_Dryden
+description: A discourse on the original and progress of satire -- A discourse on
+  epic poetry.
+gutenberg_issued: '2001-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2615'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire'
+- !lcc 'PN'
+- !lcsh 'Epic poetry'
+- !lcsh 'Satire -- History and criticism'
+title: Discourses on Satire and on Epic Poetry
+url: http://www.gutenberg.org/ebooks/2615
