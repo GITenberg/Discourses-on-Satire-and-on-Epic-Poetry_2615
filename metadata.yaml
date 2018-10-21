@@ -1,5 +1,5 @@
 _repo: Discourses-on-Satire-and-on-Epic-Poetry_2615
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcc 'PN'
 - !lcsh 'Epic poetry'
 - !lcsh 'Satire -- History and criticism'
+- GITenberg
 title: Discourses on Satire and on Epic Poetry
 url: http://www.gutenberg.org/ebooks/2615
